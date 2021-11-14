@@ -1,0 +1,13 @@
+server:
+  port: 1000
+
+spring:
+  application:
+    name: CONFIGURATION-SERVER
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Ashishgarg1234/configuration
+          default-label: main
+          clone-on-start: true
