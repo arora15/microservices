@@ -13,5 +13,5 @@ Once you have Cloend the repo, You can simply follow the below :
     d. department-service
     e. api-gateway
     f. hystrix-server
-Feel free to Reach us if any issue while working on code.
+Feel free to reach us if any issue while working on code.
 
